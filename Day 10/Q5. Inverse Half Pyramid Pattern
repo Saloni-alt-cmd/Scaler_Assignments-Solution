@@ -1,0 +1,25 @@
+Problem Description
+Given an Integer N. Print an Inverse half pyramid of N lines using *.
+For example for N = 5, the output should be the following pattern:-
+
+*****
+****
+***
+**
+*
+Note: There should be no space after the last * in each line of the output.
+
+Input Format
+
+The input contains a single integer N.
+Output Format
+
+The output contains the pattern described.
+Sample Input
+
+3
+Sample Output
+
+***
+**
+*
